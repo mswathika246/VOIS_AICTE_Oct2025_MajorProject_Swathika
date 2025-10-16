@@ -1,4 +1,4 @@
-# 📊 Netflix Content Evolution Report
+# Netflix Analysis Report
 
 ## 1. Introduction
 This analysis explores Netflix’s catalog to understand how its content strategy evolved over time — focusing on type, genre, and geographic diversity.
