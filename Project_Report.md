@@ -26,7 +26,6 @@ This analysis explores Netflix’s catalog to understand how its content strateg
 - Movies dominate (69%), but TV Shows have grown faster in recent years.  
 - **Top genres:** International Movies, Dramas, Documentaries, Comedies.  
 - **Top countries:** U.S., India, U.K., Japan, South Korea.  
-- Strong presence of **mature ratings (TV-MA/TV-14)**.  
 - Rapid growth in **international and documentary content** post-2018.
 
 ---
